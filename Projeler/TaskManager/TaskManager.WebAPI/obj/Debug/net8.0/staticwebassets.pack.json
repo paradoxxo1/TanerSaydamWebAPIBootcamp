@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\.TSNETWEBAPIBOOTCAMP\\Projeler\\TaskManager\\TaskManager.WebAPI\\wwwroot\\avatar\\133593841080088929-1713268699679.jpeg-Photoroom.png-Photoroom.png",
+      "PackagePath": "staticwebassets\\avatar\\133593841080088929-1713268699679.jpeg-Photoroom.png-Photoroom.png"
+    },
+    {
+      "Id": "C:\\.TSNETWEBAPIBOOTCAMP\\Projeler\\TaskManager\\TaskManager.WebAPI\\wwwroot\\avatar\\133593842380230254-peakpx.jpg",
+      "PackagePath": "staticwebassets\\avatar\\133593842380230254-peakpx.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TaskManager.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TaskManager.WebAPI.props",
+      "PackagePath": "build\\TaskManager.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskManager.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\TaskManager.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TaskManager.WebAPI.props",
+      "PackagePath": "buildTransitive\\TaskManager.WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

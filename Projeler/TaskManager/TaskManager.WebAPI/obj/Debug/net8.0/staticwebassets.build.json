@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "9oESXRIjuUMJI3sIYDpesnrSz7H+7I+cWx9fRNTwt4o=",
+  "Source": "TaskManager.WebAPI",
+  "BasePath": "_content/TaskManager.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskManager.WebAPI\\wwwroot",
+      "Source": "TaskManager.WebAPI",
+      "ContentRoot": "C:\\.TSNETWEBAPIBOOTCAMP\\Projeler\\TaskManager\\TaskManager.WebAPI\\wwwroot\\",
+      "BasePath": "_content/TaskManager.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\.TSNETWEBAPIBOOTCAMP\\Projeler\\TaskManager\\TaskManager.WebAPI\\wwwroot\\avatar\\133593841080088929-1713268699679.jpeg-Photoroom.png-Photoroom.png",
+      "SourceId": "TaskManager.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.TSNETWEBAPIBOOTCAMP\\Projeler\\TaskManager\\TaskManager.WebAPI\\wwwroot\\",
+      "BasePath": "_content/TaskManager.WebAPI",
+      "RelativePath": "avatar/133593841080088929-1713268699679.jpeg-Photoroom.png-Photoroom.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\avatar\\133593841080088929-1713268699679.jpeg-Photoroom.png-Photoroom.png"
+    },
+    {
+      "Identity": "C:\\.TSNETWEBAPIBOOTCAMP\\Projeler\\TaskManager\\TaskManager.WebAPI\\wwwroot\\avatar\\133593842380230254-peakpx.jpg",
+      "SourceId": "TaskManager.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.TSNETWEBAPIBOOTCAMP\\Projeler\\TaskManager\\TaskManager.WebAPI\\wwwroot\\",
+      "BasePath": "_content/TaskManager.WebAPI",
+      "RelativePath": "avatar/133593842380230254-peakpx.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\avatar\\133593842380230254-peakpx.jpg"
+    }
+  ]
+}

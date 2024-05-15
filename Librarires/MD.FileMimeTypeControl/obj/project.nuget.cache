@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ehddpIg1PG0aN+oIlX5TCnE2qACDdUGwT71P9d3XRwuLawTKJ5uov6cWpcKYNE79sAveVUDniieQY3lwHTQcgQ==",
+  "success": true,
+  "projectFilePath": "C:\\.TSNETWEBAPIBOOTCAMP\\Librarires\\MD.FileMimeTypeControl\\MD.FileMimeTypeControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

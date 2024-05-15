@@ -1,0 +1,6 @@
+@DosyaGuvenlikKontrolu.WEBAPI_HostAddress = http://localhost:5171
+
+GET {{DosyaGuvenlikKontrolu.WEBAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

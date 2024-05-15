@@ -1,0 +1,17 @@
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\bin\Debug\net8.0\Project.Bll.deps.json
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\bin\Debug\net8.0\Project.Bll.dll
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\bin\Debug\net8.0\Project.Bll.pdb
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\bin\Debug\net8.0\Project.Dal.dll
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\bin\Debug\net8.0\Project.Entities.dll
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\bin\Debug\net8.0\Project.Dal.pdb
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\bin\Debug\net8.0\Project.Entities.pdb
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\obj\Debug\net8.0\Project.Bll.csproj.AssemblyReference.cache
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\obj\Debug\net8.0\Project.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\obj\Debug\net8.0\Project.Bll.AssemblyInfoInputs.cache
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\obj\Debug\net8.0\Project.Bll.AssemblyInfo.cs
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\obj\Debug\net8.0\Project.Bll.csproj.CoreCompileInputs.cache
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\obj\Debug\net8.0\Project..C2FDD450.Up2Date
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\obj\Debug\net8.0\Project.Bll.dll
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\obj\Debug\net8.0\refint\Project.Bll.dll
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\obj\Debug\net8.0\Project.Bll.pdb
+C:\.TSNETWEBAPIBOOTCAMP\Odev\E-TicaretSitesi\Project.Bll\obj\Debug\net8.0\ref\Project.Bll.dll

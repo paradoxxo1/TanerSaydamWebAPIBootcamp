@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MD.FileMimeTypeControl</id>
+    <version>1.0.0</version>
+    <authors>Mahmut DEMIRKIRAN</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>icon.jpg</icon>
+    <readme>README.md</readme>
+    <description>Bu paket dosyalarınızın type kontrolünü yapmanızı kolaylaştıracak.</description>
+    <tags>file.mimetype.control</tags>
+    <repository type="git" url="https://github.com/paradoxxo1/FileMimeTypeControl.git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Http.Features" version="5.0.17" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.FileMimeTypeControl\bin\Debug\net8.0\MD.FileMimeTypeControl.dll" target="lib\net8.0\MD.FileMimeTypeControl.dll" />
+    <file src="C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.FileMimeTypeControl\icon.jpg" target="\icon.jpg" />
+    <file src="C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.FileMimeTypeControl\LICENSE.txt" target="\LICENSE.txt" />
+    <file src="C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.FileMimeTypeControl\README.md" target="\README.md" />
+  </files>
+</package>

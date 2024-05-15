@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "yFV0j41NAm3YebofPc7jelAOsF4TMALzgLQLjQ/naac=",
+  "Source": "First.WEBAPI",
+  "BasePath": "_content/First.WEBAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "First.WEBAPI\\wwwroot",
+      "Source": "First.WEBAPI",
+      "ContentRoot": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\First.WEBAPI\\wwwroot\\",
+      "BasePath": "_content/First.WEBAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\First.WEBAPI\\wwwroot\\1244603.jpg",
+      "SourceId": "First.WEBAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\First.WEBAPI\\wwwroot\\",
+      "BasePath": "_content/First.WEBAPI",
+      "RelativePath": "1244603.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1244603.jpg"
+    },
+    {
+      "Identity": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\First.WEBAPI\\wwwroot\\asdasdasd.png",
+      "SourceId": "First.WEBAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\First.WEBAPI\\wwwroot\\",
+      "BasePath": "_content/First.WEBAPI",
+      "RelativePath": "asdasdasd.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\asdasdasd.png"
+    }
+  ]
+}

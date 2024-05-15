@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.TSNETWEBAPIBOOTCAMP\\Odev\\E-TicaretSitesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9376B71D-67F1-4C5A-8F0F-2164962AE94A}|Project.Bll\\Project.Bll.csproj|c:\\.tsnetwebapibootcamp\\odev\\e-ticaretsitesi\\project.bll\\dependencyresolves\\mapperinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9376B71D-67F1-4C5A-8F0F-2164962AE94A}|Project.Bll\\Project.Bll.csproj|solutionrelative:project.bll\\dependencyresolves\\mapperinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9376B71D-67F1-4C5A-8F0F-2164962AE94A}|Project.Bll\\Project.Bll.csproj|c:\\.tsnetwebapibootcamp\\odev\\e-ticaretsitesi\\project.bll\\mapperprofiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9376B71D-67F1-4C5A-8F0F-2164962AE94A}|Project.Bll\\Project.Bll.csproj|solutionrelative:project.bll\\mapperprofiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9376B71D-67F1-4C5A-8F0F-2164962AE94A}|Project.Bll\\Project.Bll.csproj|c:\\.tsnetwebapibootcamp\\odev\\e-ticaretsitesi\\project.bll\\dtoclasses\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9376B71D-67F1-4C5A-8F0F-2164962AE94A}|Project.Bll\\Project.Bll.csproj|solutionrelative:project.bll\\dtoclasses\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8992D254-D55B-49DC-B81B-E3767C56102E}|Project.Entities\\Project.Entities.csproj|c:\\.tsnetwebapibootcamp\\odev\\e-ticaretsitesi\\project.entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8992D254-D55B-49DC-B81B-E3767C56102E}|Project.Entities\\Project.Entities.csproj|solutionrelative:project.entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapperInjection.cs",
+              "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\Odev\\E-TicaretSitesi\\Project.Bll\\DependencyResolves\\MapperInjection.cs",
+              "RelativeDocumentMoniker": "Project.Bll\\DependencyResolves\\MapperInjection.cs",
+              "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\Odev\\E-TicaretSitesi\\Project.Bll\\DependencyResolves\\MapperInjection.cs",
+              "RelativeToolTip": "Project.Bll\\DependencyResolves\\MapperInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:24:21.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\Odev\\E-TicaretSitesi\\Project.Bll\\MapperProfiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Project.Bll\\MapperProfiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\Odev\\E-TicaretSitesi\\Project.Bll\\MapperProfiles\\CategoryProfile.cs",
+              "RelativeToolTip": "Project.Bll\\MapperProfiles\\CategoryProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:21:36.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\Odev\\E-TicaretSitesi\\Project.Entities\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Project.Entities\\Models\\Category.cs",
+              "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\Odev\\E-TicaretSitesi\\Project.Entities\\Models\\Category.cs",
+              "RelativeToolTip": "Project.Entities\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:20:48.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\Odev\\E-TicaretSitesi\\Project.Bll\\DTOClasses\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "Project.Bll\\DTOClasses\\CategoryDTO.cs",
+              "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\Odev\\E-TicaretSitesi\\Project.Bll\\DTOClasses\\CategoryDTO.cs",
+              "RelativeToolTip": "Project.Bll\\DTOClasses\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:18:37.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

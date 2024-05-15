@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MD1faX2s56pHo7MHbuD1TX3GIAw8WUqzu0L6VWNCAJ81LT/WF5tZKe8wbgh6ZIbP5gpuqtWdDu5zOeZi7vMYkQ==",
+  "success": true,
+  "projectFilePath": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\First.WEBAPI\\First.WEBAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

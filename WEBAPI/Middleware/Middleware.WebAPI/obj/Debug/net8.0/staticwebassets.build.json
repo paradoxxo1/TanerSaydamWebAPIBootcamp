@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5VIcvRIEPlAJ+ypS2kplwbXlKbhi95zR1hrn8FdVd0E=",
+  "Source": "Middleware.WebAPI",
+  "BasePath": "_content/Middleware.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

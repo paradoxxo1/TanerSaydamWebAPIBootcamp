@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|c:\\.tsnetwebapibootcamp\\webapi\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|c:\\.tsnetwebapibootcamp\\webapi\\ecommerce\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|solutionrelative:controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|c:\\.tsnetwebapibootcamp\\webapi\\ecommerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|c:\\.tsnetwebapibootcamp\\webapi\\ecommerce\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|c:\\.tsnetwebapibootcamp\\webapi\\ecommerce\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|c:\\.tsnetwebapibootcamp\\webapi\\ecommerce\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|solutionrelative:abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCartsController.cs",
+              "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Controllers\\ShoppingCartsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShoppingCartsController.cs",
+              "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Controllers\\ShoppingCartsController.cs",
+              "RelativeToolTip": "Controllers\\ShoppingCartsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:55:07.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:54:46.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APIController.cs",
+              "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Abstractions\\APIController.cs",
+              "RelativeDocumentMoniker": "Abstractions\\APIController.cs",
+              "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Abstractions\\APIController.cs",
+              "RelativeToolTip": "Abstractions\\APIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:53:41.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:52:55.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:37:52.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACQAAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:24:33.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
