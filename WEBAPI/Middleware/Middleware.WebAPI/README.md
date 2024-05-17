@@ -1,56 +1,56 @@
 
-# ASP.NET Core Filtre ve Middleware Uygulaması
+# ASP.NET Core Filtre ve Middleware UygulamasÄ±
 
-Bu proje, ASP.NET Core kullanarak filtreler ve middleware'lerin nasıl kullanılacağını göstermek için oluşturulmuştur. 
+Bu proje, ASP.NET Core kullanarak filtreler ve middleware'lerin nasÄ±l kullanÄ±lacaÄŸÄ±nÄ± gÃ¶stermek iÃ§in oluÅŸturulmuÅŸtur. 
 
-## Başlarken
+## BaÅŸlarken
 
-Bu adımları takip ederek projeyi yerel makinenizde çalıştırabilirsiniz.
+Bu adÄ±mlarÄ± takip ederek projeyi yerel makinenizde Ã§alÄ±ÅŸtÄ±rabilirsiniz.
 
 ### Gereksinimler
 
-Bu projeyi çalıştırmak için aşağıdaki yazılımlara ihtiyacınız olacaktır:
+Bu projeyi Ã§alÄ±ÅŸtÄ±rmak iÃ§in aÅŸaÄŸÄ±daki yazÄ±lÄ±mlara ihtiyacÄ±nÄ±z olacaktÄ±r:
 
-- .NET 5 SDK veya daha üstü
+- .NET 8 SDK veya daha Ã¼stÃ¼
 
 ### Kurulum
 
-1. Bu depoyu yerel makinenize klonlayın:
+1. Bu depoyu yerel makinenize klonlayÄ±n:
 
 ```
-git clone https://github.com/sizin-kullanıcı-adınız/ASPNET-Core-Filtre-Middleware-Uygulaması.git
+git clone https://github.com/sizin-kullanÄ±cÄ±-adÄ±nÄ±z/ASPNET-Core-Filtre-Middleware-UygulamasÄ±.git
 ```
 
 2. Proje dizinine gidin:
 
 ```
-cd ASPNET-Core-Filtre-Middleware-Uygulaması
+cd ASPNET-Core-Filtre-Middleware-UygulamasÄ±
 ```
 
-3. Proje dosyalarını yerel ortamınıza yüklemek için aşağıdaki komutu çalıştırın:
+3. Proje dosyalarÄ±nÄ± yerel ortamÄ±nÄ±za yÃ¼klemek iÃ§in aÅŸaÄŸÄ±daki komutu Ã§alÄ±ÅŸtÄ±rÄ±n:
 
 ```
 dotnet restore
 ```
 
-4. Projeyi çalıştırın:
+4. Projeyi Ã§alÄ±ÅŸtÄ±rÄ±n:
 
 ```
 dotnet run
 ```
 
-## Kullanım
+## KullanÄ±m
 
-Bu proje, ASP.NET Core filtrelerini ve middleware'lerini anlamanıza yardımcı olmak için örnekler içermektedir. Kod içerisindeki yorum satırları ve belgeler size yol gösterecektir.
+Bu proje, ASP.NET Core filtrelerini ve middleware'lerini anlamanÄ±za yardÄ±mcÄ± olmak iÃ§in Ã¶rnekler iÃ§ermektedir. Kod iÃ§erisindeki yorum satÄ±rlarÄ± ve belgeler size yol gÃ¶sterecektir.
 
-## Katkıda Bulunma
+## KatkÄ±da Bulunma
 
-1. Bu depoyu fork edin (https://github.com/sizin-kullanıcı-adınız/ASPNET-Core-Filtre-Middleware-Uygulaması/fork)
-2. Özellik dalı oluşturun (`git checkout -b özellik/YeniÖzellik`)
-3. Değişikliklerinizi yapın
-4. Değişikliklerinizi kaydedin (`git commit -am 'Yeni özellik ekledi'`)
-5. Dalınıza itin (`git push origin özellik/YeniÖzellik`)
-6. Bir Pull Request açın
+1. Bu depoyu fork edin (https://github.com/sizin-kullanÄ±cÄ±-adÄ±nÄ±z/ASPNET-Core-Filtre-Middleware-UygulamasÄ±/fork)
+2. Ã–zellik dalÄ± oluÅŸturun (`git checkout -b Ã¶zellik/YeniÃ–zellik`)
+3. DeÄŸiÅŸikliklerinizi yapÄ±n
+4. DeÄŸiÅŸikliklerinizi kaydedin (`git commit -am 'Yeni Ã¶zellik ekledi'`)
+5. DalÄ±nÄ±za itin (`git push origin Ã¶zellik/YeniÃ–zellik`)
+6. Bir Pull Request aÃ§Ä±n
 
 
 
