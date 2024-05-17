@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MD.Result.Patten</id>
+    <version>1.0.0</version>
+    <title>MD.Result.Patten</title>
+    <authors>Mahmut DEMIRKIRAN</authors>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>icon.jpg</icon>
+    <readme>README.md</readme>
+    <description>This NuGet package provides a robust and standardized way to handle the results of operations in your application.</description>
+    <tags>md.result.pattern</tags>
+    <repository type="git" url="https://github.com/paradoxxo1/MD.ResultPattern.git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\bin\Debug\net8.0\MD.Result.Patten.dll" target="lib\net8.0\MD.Result.Patten.dll" />
+    <file src="C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\icon.jpg" target="\icon.jpg" />
+    <file src="C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\LICENSE.txt" target="\LICENSE.txt" />
+    <file src="C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\README.md" target="\README.md" />
+  </files>
+</package>

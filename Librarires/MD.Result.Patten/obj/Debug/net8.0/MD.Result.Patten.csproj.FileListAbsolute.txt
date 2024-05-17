@@ -1,0 +1,11 @@
+C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\bin\Debug\net8.0\MD.Result.Patten.deps.json
+C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\bin\Debug\net8.0\MD.Result.Patten.dll
+C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\bin\Debug\net8.0\MD.Result.Patten.pdb
+C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\obj\Debug\net8.0\MD.Result.Patten.GeneratedMSBuildEditorConfig.editorconfig
+C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\obj\Debug\net8.0\MD.Result.Patten.AssemblyInfoInputs.cache
+C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\obj\Debug\net8.0\MD.Result.Patten.AssemblyInfo.cs
+C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\obj\Debug\net8.0\MD.Result.Patten.csproj.CoreCompileInputs.cache
+C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\obj\Debug\net8.0\MD.Result.Patten.dll
+C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\obj\Debug\net8.0\refint\MD.Result.Patten.dll
+C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\obj\Debug\net8.0\MD.Result.Patten.pdb
+C:\.TSNETWEBAPIBOOTCAMP\Librarires\MD.Result.Patten\obj\Debug\net8.0\ref\MD.Result.Patten.dll
