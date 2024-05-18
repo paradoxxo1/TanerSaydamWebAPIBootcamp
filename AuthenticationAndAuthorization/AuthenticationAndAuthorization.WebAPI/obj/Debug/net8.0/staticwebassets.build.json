@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "atdmfBfuDbSo/7Vn/KlIgo2h9FU7iacLFQo8H2ZLIrI=",
+  "Source": "AuthenticationAndAuthorization.WebAPI",
+  "BasePath": "_content/AuthenticationAndAuthorization.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

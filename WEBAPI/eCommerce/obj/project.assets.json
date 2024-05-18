@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "MD.Result.Patten/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/MD.Result.Patten.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/MD.Result.Patten.dll": {}
+        }
+      },
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
         "type": "package",
         "build": {
@@ -293,6 +302,21 @@
     }
   },
   "libraries": {
+    "MD.Result.Patten/1.0.0": {
+      "sha512": "vTlMrFxiRDtKhj6uAN5E0iEDiDSZB8Jqfs2P2qahyLz4eP/gL4XljTIdgt+fNxAqteDVaD7Au/4MHPyXPVnqPQ==",
+      "type": "package",
+      "path": "md.result.patten/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "icon.jpg",
+        "lib/net8.0/MD.Result.Patten.dll",
+        "md.result.patten.1.0.0.nupkg.sha512",
+        "md.result.patten.nuspec"
+      ]
+    },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "sha512": "Ckb5EDBUNJdFWyajfXzUIMRkhf52fHZOQuuZg/oiu8y7zDCVwD0iHhew6MnThjHmevanpxL3f5ci2TtHQEN6bw==",
       "type": "package",
@@ -993,6 +1017,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "MD.Result.Patten >= 1.0.0",
       "Microsoft.Extensions.Diagnostics.HealthChecks >= 8.0.4",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -1041,6 +1066,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "MD.Result.Patten": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "Microsoft.Extensions.Diagnostics.HealthChecks": {
             "target": "Package",
             "version": "[8.0.4, )"
@@ -1069,7 +1098,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

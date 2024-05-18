@@ -35,3 +35,4 @@ C:\.TSNETWEBAPIBOOTCAMP\WEBAPI\eCommerce\bin\Debug\net8.0\Microsoft.Extensions.D
 C:\.TSNETWEBAPIBOOTCAMP\WEBAPI\eCommerce\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\.TSNETWEBAPIBOOTCAMP\WEBAPI\eCommerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\.TSNETWEBAPIBOOTCAMP\WEBAPI\eCommerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\.TSNETWEBAPIBOOTCAMP\WEBAPI\eCommerce\bin\Debug\net8.0\MD.Result.Patten.dll

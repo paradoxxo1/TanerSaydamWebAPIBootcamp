@@ -1,6 +1,7 @@
 ﻿using eCommerce.Abstractions;
 using eCommerce.Models;
 using eCommerce.Utilities;
+using MD.Result.Patten;
 using Microsoft.AspNetCore.Mvc;
 
 namespace eCommerce.Controllers
@@ -38,6 +39,7 @@ namespace eCommerce.Controllers
         [HttpGet("{cartOwner}")]
         public IActionResult Pay(string cartOwner)
         {
+            var successResult = ResultPattern.Success();
             List<Order> orders = Carts.Select(s => new Order()
             {
                 ProductName = s.ProductName,
@@ -58,7 +60,7 @@ namespace eCommerce.Controllers
             //}
 
             Carts.RemoveRange(0, Carts.Count);
-            return Ok(Result.Succed("Payment is successful"));
+            return Ok(successResult);
 
         }
 

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|c:\\.tsnetwebapibootcamp\\webapi\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|c:\\.tsnetwebapibootcamp\\webapi\\ecommerce\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|solutionrelative:dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|c:\\.tsnetwebapibootcamp\\webapi\\ecommerce\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|solutionrelative:controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|c:\\.tsnetwebapibootcamp\\webapi\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C8430B6-2081-4B99-8952-924CF2A4B81B}|eCommerce.csproj|c:\\.tsnetwebapibootcamp\\webapi\\ecommerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateProductDto.cs",
+              "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "DTOs\\CreateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:18:15.382Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -44,14 +61,14 @@
               "RelativeDocumentMoniker": "Controllers\\ShoppingCartsController.cs",
               "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Controllers\\ShoppingCartsController.cs",
               "RelativeToolTip": "Controllers\\ShoppingCartsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T14:55:07.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Controllers\\OrdersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:54:46.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T14:54:46.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "APIController.cs",
               "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Abstractions\\APIController.cs",
               "RelativeDocumentMoniker": "Abstractions\\APIController.cs",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "Abstractions\\APIController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:53:41.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T14:53:41.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -85,12 +100,11 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:52:55.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T14:52:55.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
@@ -98,21 +112,19 @@
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:37:52.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T14:37:52.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAACQAAAClAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAClAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T14:24:33.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T14:24:33.99Z"
             }
           ]
         }

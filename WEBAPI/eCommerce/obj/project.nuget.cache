@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QBcIS4GNTtt2Mi6RMf2tAx8FFgWahhpri7Cu0iWTZERTevedeNnqEYAfwmuM3F/9kcgFKQ4W53cJCJLva1R8tw==",
+  "dgSpecHash": "vurM6tFjYT8Gl3765fH20V6veeGLA0yLDKfTL9BB0q4JhAEayBbj9iwg/g75Ajpg0VjqpmWq82hT+/5jxDWEIg==",
   "success": true,
   "projectFilePath": "C:\\.TSNETWEBAPIBOOTCAMP\\WEBAPI\\eCommerce\\eCommerce.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ParadoxXO\\.nuget\\packages\\md.result.patten\\1.0.0\\md.result.patten.1.0.0.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\ParadoxXO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
