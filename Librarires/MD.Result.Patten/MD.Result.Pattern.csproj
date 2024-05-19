@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>MD.Result.Patten</PackageId>
+    <Title>MD.Result.Patten</Title>
+    <Version>1.0.0</Version>
+    <Authors>Mahmut DEMIRKIRAN</Authors>
+    <Company>Mahmut DEMIRKIRAN</Company>
+    <Product>MD.Result.Patten</Product>
+    <Description>This NuGet package provides a robust and standardized way to handle the results of operations in your application.</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageIcon>icon.jpg</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/paradoxxo1/MD.ResultPattern.git</RepositoryUrl>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>md.result.pattern</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="icon.jpg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
